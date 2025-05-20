@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in mirandaizguerra24/IIIF_Workshop_Project2 project"
+        ]
+    },
+    "items": []
+}
