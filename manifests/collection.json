@@ -1,0 +1,15 @@
+{
+  "id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mirandaizguerra24/IIIF_Workshop_Project2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json",
+    "label" : [ "Entremes del maestro de niños.", {
+      "@value" : "Interludes, Spanish"
+    } ]
+  } ]
+}
