@@ -1,0 +1,241 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : [ "Entremes del maestro de niños.", {
+    "@value" : "Interludes, Spanish"
+  } ],
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Valladolid : Imprenta de Santaren, [17--?], Caption title. Imprint from colophon.\nEntremés suelto.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "University of Chicago",
+  "sequences" : [ {
+    "@id" : "http://37d5db60-d9fd-4899-86fc-64498becfbfe",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://9c21e483-6cfd-489b-bc98-3370d2e449a2",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1",
+      "height" : 4013,
+      "width" : 2899,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://566cc281-b3be-4286-9c3a-d26c4763c2ae",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4013,
+          "width" : 2899
+        },
+        "on" : "http://9c21e483-6cfd-489b-bc98-3370d2e449a2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f3df2cf7-257c-4f5f-8e2f-24a2feca61ae",
+      "@type" : "sc:Canvas",
+      "label" : "Page 2",
+      "height" : 4130,
+      "width" : 2982,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fbbee82f-4d5a-4f10-8013-196989f32950",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0002",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4130,
+          "width" : 2982
+        },
+        "on" : "http://f3df2cf7-257c-4f5f-8e2f-24a2feca61ae"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://65dd8fbd-e512-4833-b2d9-7c8898cdc1d7",
+      "@type" : "sc:Canvas",
+      "label" : "Page 3",
+      "height" : 4133,
+      "width" : 2808,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://98919391-c055-4c93-b1ad-b3df9e48cd9b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0003",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4133,
+          "width" : 2808
+        },
+        "on" : "http://65dd8fbd-e512-4833-b2d9-7c8898cdc1d7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://49ac752f-b98d-4d38-803f-9c1fa9a0371d",
+      "@type" : "sc:Canvas",
+      "label" : "Page 4",
+      "height" : 4089,
+      "width" : 2778,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f9a9c9f7-c50b-499f-a8ac-4d8699cf2582",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0004",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4089,
+          "width" : 2778
+        },
+        "on" : "http://49ac752f-b98d-4d38-803f-9c1fa9a0371d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://755ee19a-6bbd-402e-b2a0-cbdc3b159c46",
+      "@type" : "sc:Canvas",
+      "label" : "Page 5",
+      "height" : 4097,
+      "width" : 2770,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e0acd3a6-8fac-4146-905b-3ef51c5561cc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0005",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4097,
+          "width" : 2770
+        },
+        "on" : "http://755ee19a-6bbd-402e-b2a0-cbdc3b159c46"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://74d99c54-19a2-479d-8749-0b49c26aa8d0",
+      "@type" : "sc:Canvas",
+      "label" : "Page 6",
+      "height" : 4089,
+      "width" : 2733,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9c534712-e758-4405-82f5-2f97dc925867",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0006/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0006",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4089,
+          "width" : 2733
+        },
+        "on" : "http://74d99c54-19a2-479d-8749-0b49c26aa8d0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://85907ed5-e695-4e02-a6e8-b20af0edfbcf",
+      "@type" : "sc:Canvas",
+      "label" : "Page 7",
+      "height" : 4082,
+      "width" : 2748,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ea0faa50-7b59-4529-820e-bfb7fd41c91a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0007/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0007",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4082,
+          "width" : 2748
+        },
+        "on" : "http://85907ed5-e695-4e02-a6e8-b20af0edfbcf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a98cbd9f-5cfe-4e1d-a423-9e3f57f19164",
+      "@type" : "sc:Canvas",
+      "label" : "Page 8",
+      "height" : 4088,
+      "width" : 2711,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8b48de7b-d17e-47c4-a890-bb99aa7d8df7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0008/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0008",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4088,
+          "width" : 2711
+        },
+        "on" : "http://a98cbd9f-5cfe-4e1d-a423-9e3f57f19164"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Title Page",
+    "canvases" : [ "http://9c21e483-6cfd-489b-bc98-3370d2e449a2" ]
+  } ]
+}
