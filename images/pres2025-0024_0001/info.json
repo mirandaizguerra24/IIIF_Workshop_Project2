@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 91,
+    "height" : 126
+  }, {
+    "width" : 182,
+    "height" : 251
+  }, {
+    "width" : 363,
+    "height" : 502
+  }, {
+    "width" : 725,
+    "height" : 1004
+  }, {
+    "width" : 1450,
+    "height" : 2007
+  }, {
+    "width" : 2899,
+    "height" : 4013
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2899,
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/images/pres2025-0024_0001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4013
+}
