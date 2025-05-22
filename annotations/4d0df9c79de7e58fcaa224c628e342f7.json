@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "y corregirles las planas ,\n#&deg; pienso que es. la tercera 5\na cuarta es la rosca: y si\nno la traen, que haya correas. uae\nSale Cosm. Loado sea Dios, &raquo; Jorg. Loado\ny bendito Siempre. sea,\nYo quiero ponerme grave +\nho me haceis la neminencia 2\npensais que yo soy Jorgiilo? .\nno veis que soy de: la escuela\nel maestro, vergafitoa ,\nporque mi amo me. deja\neste: cargo, y que le supra\nenfermedades y ausencias &cent;\nTraes la rosca, Cosmico? &mdash;\nCosm. No sefior. Jorg. Pues decid, bestia,\nno sabeis de que hoy es sabado&cent;\nCosm..No sefior , que es&rsquo; viernes, Jorg. Ea,\nno me sea replicon 5 :\ndesataquese , ne tenga\ndisculpa , pues no trae rosea,\nsea viernes 6 no sea.\nCosm. Otro dia la traer&eacute;.\nJorg. Desataquese, no quiera\nque haga:- mas qu&eacute; es lo que trae\nen aquesta faltriquera?'\nCosm. Es un mendrugo de pan.\nJorg. Ese mendruguillo. venga ,\n&lsquo; y en lugar de rosca pase,\nporque la gana me aprieta,\nCosm. Plegue 4 Cristo que rebiente,\n_ pues sin: almorzar me deja. {\nSale Mari, Alabado sea el Sefior.: .\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>y corregirles las planas ,</p>\n<p>#&deg; pienso que es. la tercera 5</p>\n<p>a cuarta es la rosca: y si</p>\n<p>no la traen, que haya correas. uae</p>\n<p>Sale Cosm. Loado sea Dios, &raquo; Jorg. Loado</p>\n<p>y bendito Siempre. sea,</p>\n<p>Yo quiero ponerme grave +</p>\n<p>ho me haceis la neminencia 2</p>\n<p>pensais que yo soy Jorgiilo? .</p>\n<p>no veis que soy de: la escuela</p>\n<p>el maestro, vergafitoa ,</p>\n<p>porque mi amo me. deja</p>\n<p>este: cargo, y que le supra</p>\n<p>enfermedades y ausencias &cent;</p>\n<p>Traes la rosca, Cosmico? &mdash;</p>\n<p>Cosm. No sefior. Jorg. Pues decid, bestia,</p>\n<p>no sabeis de que hoy es sabado&cent;</p>\n<p>Cosm..No sefior , que es&rsquo; viernes, Jorg. Ea,</p>\n<p>no me sea replicon 5 :</p>\n<p>desataquese , ne tenga</p>\n<p>disculpa , pues no trae rosea,</p>\n<p>sea viernes 6 no sea.</p>\n<p>Cosm. Otro dia la traer&eacute;.</p>\n<p>Jorg. Desataquese, no quiera</p>\n<p>que haga:- mas qu&eacute; es lo que trae</p>\n<p>en aquesta faltriquera?'</p>\n<p>Cosm. Es un mendrugo de pan.</p>\n<p>Jorg. Ese mendruguillo. venga ,</p>\n<p>&lsquo; y en lugar de rosca pase,</p>\n<p>porque la gana me aprieta,</p>\n<p>Cosm. Plegue 4 Cristo que rebiente,</p>\n<p>_ pues sin: almorzar me deja. {</p>\n<p>Sale Mari, Alabado sea el Sefior.: .</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:46:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747935964639",
+    "dcterms:modified" : "2025-05-22T17:46:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=275,281,2094,3362"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M275.38483,280.66866h1046.90453v0h1046.90453v1681.15567v1681.15567h-1046.90453h-1046.90453v-1681.15567z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_50eedb1e-fbbd-497f-94bd-c853179256ba\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://65dd8fbd-e512-4833-b2d9-7c8898cdc1d7"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/4d0df9c79de7e58fcaa224c628e342f7.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
