@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sale Maese. Qu&eacute;-bulla tan grande oes esta?\n&nbsp;\nqu&eacute; &lsquo;es, esto, Jorge, qu&eacute; es esto?\n&nbsp;\ncomo la eseuela, revuelta\n&nbsp;\nme traes con esas locuras?\nJorg. Diga, locura es aquesta ?\nMaest. No es locuta, que al vecino\n&nbsp;\nle casques?. Jorg. No viniera\n&nbsp;\nel vecitio&rsquo; sin&rsquo; la rosea.\nMaest. Ya es::el -sufrirte bajeza &cent;-\n&nbsp;\nvete al punto&lsquo;de mi casa, &copy;\n&nbsp;\nsino quieres que te muela\n&nbsp;\na palos. Jorg: A mi! por qu&eacute;?:\nMaest. No est&eacute;s un instante en ella:\n&nbsp;\nvete, Jorge.&rsquo; 2 Jorg. Ust&eacute; trae. rosca?\nMaest. Apurada la paciencias&lt;. ...&rsquo;\nme tiene, &lsquo;este bruto: yo? -\n&nbsp;\na\n&nbsp;\n&ldquo;geal ie\n&nbsp;\nAB\n&nbsp;\na\n&nbsp;\nJorg. Muchachos.,. tomadle. acuestas,\n&nbsp;\nMaest. Pues: ti contra mi mis armas?\nJorg. Hoy ha de llevar con-ellas,\n&nbsp;\nporque sepa con que da. - agd&eacute;rranle.\nMaest. Jorge amigo, ten clemencia.\nJorg. No tiene que tratar de eso,\n&ldquo;sque- asi hago Jo que ordena:\n&nbsp;\nla comision que me did\n&nbsp;\nse ha de ejecutar, y advierta,\n&nbsp;\nque otro dia traiga rosca,\n&nbsp;\n6 que no venga 4 la escuela.\nMaest. Vecinos , acudid presto.\nJorg. Ellos que sin rosca yengan,\n&nbsp;\ny veran los vecinitos\n&nbsp;\nsi las correas no prueban.\nsale Grac. Qu&eacute; es aquesto, 4 mi\n&nbsp;\nay tan enorme insolencia!\n&nbsp;\n&nbsp;\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sale Maese. Qu&eacute;-bulla tan grande oes esta?</p>\n<p>&nbsp;</p>\n<p>qu&eacute; &lsquo;es, esto, Jorge, qu&eacute; es esto?</p>\n<p>&nbsp;</p>\n<p>como la eseuela, revuelta</p>\n<p>&nbsp;</p>\n<p>me traes con esas locuras?</p>\n<p>Jorg. Diga, locura es aquesta ?</p>\n<p>Maest. No es locuta, que al vecino</p>\n<p>&nbsp;</p>\n<p>le casques?. Jorg. No viniera</p>\n<p>&nbsp;</p>\n<p>el vecitio&rsquo; sin&rsquo; la rosea.</p>\n<p>Maest. Ya es::el -sufrirte bajeza &cent;-</p>\n<p>&nbsp;</p>\n<p>vete al punto&lsquo;de mi casa, &copy;</p>\n<p>&nbsp;</p>\n<p>sino quieres que te muela</p>\n<p>&nbsp;</p>\n<p>a palos. Jorg: A mi! por qu&eacute;?:</p>\n<p>Maest. No est&eacute;s un instante en ella:</p>\n<p>&nbsp;</p>\n<p>vete, Jorge.&rsquo; 2 Jorg. Ust&eacute; trae. rosca?</p>\n<p>Maest. Apurada la paciencias&lt;. ...&rsquo;</p>\n<p>me tiene, &lsquo;este bruto: yo? -</p>\n<p>&nbsp;</p>\n<p>a</p>\n<p>&nbsp;</p>\n<p>&ldquo;geal ie</p>\n<p>&nbsp;</p>\n<p>AB</p>\n<p>&nbsp;</p>\n<p>a</p>\n<p>&nbsp;</p>\n<p>Jorg. Muchachos.,. tomadle. acuestas,</p>\n<p>&nbsp;</p>\n<p>Maest. Pues: ti contra mi mis armas?</p>\n<p>Jorg. Hoy ha de llevar con-ellas,</p>\n<p>&nbsp;</p>\n<p>porque sepa con que da. - agd&eacute;rranle.</p>\n<p>Maest. Jorge amigo, ten clemencia.</p>\n<p>Jorg. No tiene que tratar de eso,</p>\n<p>&ldquo;sque- asi hago Jo que ordena:</p>\n<p>&nbsp;</p>\n<p>la comision que me did</p>\n<p>&nbsp;</p>\n<p>se ha de ejecutar, y advierta,</p>\n<p>&nbsp;</p>\n<p>que otro dia traiga rosca,</p>\n<p>&nbsp;</p>\n<p>6 que no venga 4 la escuela.</p>\n<p>Maest. Vecinos , acudid presto.</p>\n<p>Jorg. Ellos que sin rosca yengan,</p>\n<p>&nbsp;</p>\n<p>y veran los vecinitos</p>\n<p>&nbsp;</p>\n<p>si las correas no prueban.</p>\n<p>sale Grac. Qu&eacute; es aquesto, 4 mi</p>\n<p>&nbsp;</p>\n<p>ay tan enorme insolencia!</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:47:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747936066559",
+    "dcterms:modified" : "2025-05-22T17:47:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=228,253,2263,3379"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M228.17264,252.78619h1131.2749v0h1131.2749v1689.63612v1689.63612h-1131.2749h-1131.2749v-1689.63612z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f6a5e852-298b-4e66-ae75-3280f7f50f82\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://85907ed5-e695-4e02-a6e8-b20af0edfbcf"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/ea7402b49b80d526dfb6d30bd8d90aea.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
