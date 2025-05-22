@@ -1,0 +1,57 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sefior Maestro ,, usted: sepa &laquo;\nque la rosca &ldquo;de mafiana\nla traigo aqui. &lsquo;Jorg. Viene entera:?\n&lsquo;Mart. Si sefior,, que esta. mafana.,\n&ldquo;da tragergn, y esta tierna.\nJorg. Bien haya quien te paridt\nEste chiquillo es conciencia\nensefiarle tan aprisa }\npara no perder la ofr&eacute;nda:\nfort. Demes: bust&eacute; una cartillas\nque la mia &lsquo;no esta buena.\nJorg. &yen;. como que 4 Martinirito +\nle dar&eacute; cartilla nueva. dasela.\nTome &eacute;l oira, que le quiero\nensefiar de tal manera,\ngue la primera&rsquo; ha de ser\nsu liciom, para que aprenda.. ;\nSale Vaiand. Sefior , que dice. mi padre,\nque se ha quedado dola gecraey\nque me d&eacute; aprisa -licion , ;\nque tengo, que hacer. Jorg. aipett,\ntraes rosca, Valandran ?\n&nbsp;\nVoland. No sefior. Jorg. Torsenler acuestas,\nporque sin rosca se viene. . tdmaile.\nValand, Sefor ! Jorg. No hay sefior que tenga$\n&nbsp;\nquien viniere sin la rosca; 259i\n&nbsp;\nha de probar: las &lsquo;correas ; n dalee\n_ tome, tome Valand. Padre mio!\n&lsquo;Jorg. @ que lindamente suena!\n&nbsp;\notra vez te he de azotar,\n&nbsp;\npara que la rosea venga.\nSaie Vej. Qu&eacute; es esto, Jorge; qu&eacute; haces 2\nJorg. A Valandranico &lsquo;es fuerza",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sefior Maestro ,, usted: sepa &laquo;</p>\n<p>que la rosca &ldquo;de mafiana</p>\n<p>la traigo aqui. &lsquo;Jorg. Viene entera:?</p>\n<p>&lsquo;Mart. Si sefior,, que esta. mafana.,</p>\n<p>&ldquo;da tragergn, y esta tierna.</p>\n<p>Jorg. Bien haya quien te paridt</p>\n<p>Este chiquillo es conciencia</p>\n<p>ensefiarle tan aprisa }</p>\n<p>para no perder la ofr&eacute;nda:</p>\n<p>fort. Demes: bust&eacute; una cartillas</p>\n<p>que la mia &lsquo;no esta buena.</p>\n<p>Jorg. &yen;. como que 4 Martinirito +</p>\n<p>le dar&eacute; cartilla nueva. dasela.</p>\n<p>Tome &eacute;l oira, que le quiero</p>\n<p>ensefiar de tal manera,</p>\n<p>gue la primera&rsquo; ha de ser</p>\n<p>su liciom, para que aprenda.. ;</p>\n<p>Sale Vaiand. Sefior , que dice. mi padre,</p>\n<p>que se ha quedado dola gecraey</p>\n<p>que me d&eacute; aprisa -licion , ;</p>\n<p>que tengo, que hacer. Jorg. aipett,</p>\n<p>traes rosca, Valandran ?</p>\n<p>&nbsp;</p>\n<p>Voland. No sefior. Jorg. Torsenler acuestas,</p>\n<p>porque sin rosca se viene. . tdmaile.</p>\n<p>Valand, Sefor ! Jorg. No hay sefior que tenga$</p>\n<p>&nbsp;</p>\n<p>quien viniere sin la rosca; 259i</p>\n<p>&nbsp;</p>\n<p>ha de probar: las &lsquo;correas ; n dalee</p>\n<p>_ tome, tome Valand. Padre mio!</p>\n<p>&lsquo;Jorg. @ que lindamente suena!</p>\n<p>&nbsp;</p>\n<p>otra vez te he de azotar,</p>\n<p>&nbsp;</p>\n<p>para que la rosea venga.</p>\n<p>Saie Vej. Qu&eacute; es esto, Jorge; qu&eacute; haces 2</p>\n<p>Jorg. A Valandranico &lsquo;es fuerza</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:46:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747935986228",
+    "dcterms:modified" : "2025-05-22T17:46:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=518,286,2060,3320"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M518.15538,285.80478h1030.03785v0h1030.03785v1659.9502v1659.9502h-1030.03785h-1030.03785v-1659.9502z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f4d3bb3b-6e30-4358-b9e8-35da22ef7b24\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://49ac752f-b98d-4d38-803f-9c1fa9a0371d"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2776,2138,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2776,2137.52988h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7c9487d8-df23-42bb-a246-c853ac541a4d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://49ac752f-b98d-4d38-803f-9c1fa9a0371d"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/c0783d8469952a824a248bdaf8a5870a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
