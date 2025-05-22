@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "No 19",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>No 19</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:42:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747935726508",
+    "dcterms:modified" : "2025-05-22T17:42:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2215,73,412,183"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2214.92629,72.61089h206.17995v0h206.17995v91.59894v91.59894h-206.17995h-206.17995v-91.59894z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3e58e500-9b9c-4e95-87af-d3607965209c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c21e483-6cfd-489b-bc98-3370d2e449a2"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "PERSONAS,\nee - Cosmico. J Graciosg, .\nJorge. a Martimico&gt; &laquo; Vecinos, .\nVejere, Vv Abandraniqo.s &mdash;\nSalen el Maasteec y Jorge... ; x\n&nbsp;\nMaes. &ldquo;Yorge, amigo, ya sabras 9\n{ que el ir? a &lsquo;la corte es fuera,&rdquo;\nno puedo dejar solos\n1s muchachos de la escuela; &laquo;&copy; &copy; 2\ny &ldquo;puesto que te heicriado:-,&nbsp; &mdash; 2\nJorg. El me,crid? Maest. Cosa es cierta,\nJorg. Luego bien decia yo\nal maldecirme mi abuela ,\n: dici&eacute;ndome: lleve el. diablo\n| quien te crio.&reg; ' Maest. Y que respuesta\n|. le dabas ? Jorg: Amen, amen,\n&ldquo;que es lo que busted ensefia\nal fin de las oraciones. &lsquo;\nMaest. Calla, mozo, no seas bestia;\nMientras voy A mi viage,\nte has de guedar en mi ausencia\npor maestro: de los ninios,",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>PERSONAS,</p>\n<p>ee - Cosmico. J Graciosg, .</p>\n<p>Jorge. a Martimico&gt; &laquo; Vecinos, .</p>\n<p>Vejere, Vv Abandraniqo.s &mdash;</p>\n<p>Salen el Maasteec y Jorge... ; x</p>\n<p>&nbsp;</p>\n<p>Maes. &ldquo;Yorge, amigo, ya sabras 9</p>\n<p>{ que el ir? a &lsquo;la corte es fuera,&rdquo;</p>\n<p>no puedo dejar solos</p>\n<p>1s muchachos de la escuela; &laquo;&copy; &copy; 2</p>\n<p>y &ldquo;puesto que te heicriado:-,&nbsp; &mdash; 2</p>\n<p>Jorg. El me,crid? Maest. Cosa es cierta,</p>\n<p>Jorg. Luego bien decia yo</p>\n<p>al maldecirme mi abuela ,</p>\n<p>: dici&eacute;ndome: lleve el. diablo</p>\n<p>| quien te crio.&reg; ' Maest. Y que respuesta</p>\n<p>|. le dabas ? Jorg: Amen, amen,</p>\n<p>&ldquo;que es lo que busted ensefia</p>\n<p>al fin de las oraciones. &lsquo;</p>\n<p>Maest. Calla, mozo, no seas bestia;</p>\n<p>Mientras voy A mi viage,</p>\n<p>te has de guedar en mi ausencia</p>\n<p>por maestro: de los ninios,</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:44:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747935879056",
+    "dcterms:modified" : "2025-05-22T17:44:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=263,1285,2051,2294"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M263.20016,1285.03785h1025.41936v0h1025.41936v1146.81009v1146.81009h-1025.41936h-1025.41936v-1146.81009z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7eaa7d29-b097-4170-8439-a5149b926a4b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c21e483-6cfd-489b-bc98-3370d2e449a2"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "&lsquo;ENTREMES&rdquo; |\nDEL. MAESTRO\nDE NINOS.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>&lsquo;ENTREMES&rdquo; |</p>\n<p>DEL. MAESTRO</p>\n<p>DE NINOS.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:43:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747935782282",
+    "dcterms:modified" : "2025-05-22T17:43:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=305,426,1974,831"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M304.65066,426.42047h986.92961v0h986.92961v415.50494v415.50494h-986.92961h-986.92961v-415.50494z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_37cd9e6f-fb5e-47e1-9eec-e94874324f3b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c21e483-6cfd-489b-bc98-3370d2e449a2"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/a4d3ebd2570f9ba0bc0840318b8524ae.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
