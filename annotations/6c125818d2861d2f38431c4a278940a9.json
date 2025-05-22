@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jorg. Hacer lo que mi &lsquo;amo-ordena,&rsquo;\nVec. Pues qu&eacute;.ordena vuestro amo?\nJorg. El me dijo, que a cualquicra\nque aqui entrase sin la rosca wy\nse los cascase. Vec. No: ed\nde ver, que shabla cou los mifios$. &laquo;)\nJorg. El me dijo que! advictiera,\nque a todos Cuanios oman y. is\" wl\naunque fuse la Maestra, xr\nque esigsimafand fuc&eacute;&lt;4 misay 2. os! GN\ny sin rosca Se Viniera, ;\ny dentro ea la escuela. entrara ,\ntambicn tos Ilevara -eila.\nMas vos, decidme, araeis rosea 2\nVec. A los machachos con esa,\nno 4 mi; majadero, simple.\nJorg. Dios me libre des, sul; lengua :\nmiren el modo de hablar!\n~ Trae rosca &cent; Vec. Pues yo traerla t\n_ decid para qu&eacute;, simplon?\nJorg. No la irae? tomenle acuestas.\n&nbsp;\n&ldquo;\n&nbsp;\nVec. Muchachos, qu&eacute; haceis&cent; &laquo; ag&eacute;rranles\nMart. Qu&eacute; bececaess\nobedecer. Jorg. No arremeta\n&nbsp;\na los muchachos, que .aquesto\nno es cortar brazo ni) pierna:\ncuatro azotes solo son. dal&eacute;.\nVee. Justicia del cielo venga.\nJorg. Aunque venga la justicia;\n| tome, tome. dale. Vee. Tente , bestia,\nmira que yo soy tu amigo.\nJorg. Pardiez si mi padre fuera, wases\ntos habia de llevar.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jorg. Hacer lo que mi &lsquo;amo-ordena,&rsquo;</p>\n<p>Vec. Pues qu&eacute;.ordena vuestro amo?</p>\n<p>Jorg. El me dijo, que a cualquicra</p>\n<p>que aqui entrase sin la rosca wy</p>\n<p>se los cascase. Vec. No: ed</p>\n<p>de ver, que shabla cou los mifios$. &laquo;)</p>\n<p>Jorg. El me dijo que! advictiera,</p>\n<p>que a todos Cuanios oman y. is\" wl</p>\n<p>aunque fuse la Maestra, xr</p>\n<p>que esigsimafand fuc&eacute;&lt;4 misay 2. os! GN</p>\n<p>y sin rosca Se Viniera, ;</p>\n<p>y dentro ea la escuela. entrara ,</p>\n<p>tambicn tos Ilevara -eila.</p>\n<p>Mas vos, decidme, araeis rosea 2</p>\n<p>Vec. A los machachos con esa,</p>\n<p>no 4 mi; majadero, simple.</p>\n<p>Jorg. Dios me libre des, sul; lengua :</p>\n<p>miren el modo de hablar!</p>\n<p>~ Trae rosca &cent; Vec. Pues yo traerla t</p>\n<p>_ decid para qu&eacute;, simplon?</p>\n<p>Jorg. No la irae? tomenle acuestas.</p>\n<p>&nbsp;</p>\n<p>&ldquo;</p>\n<p>&nbsp;</p>\n<p>Vec. Muchachos, qu&eacute; haceis&cent; &laquo; ag&eacute;rranles</p>\n<p>Mart. Qu&eacute; bececaess</p>\n<p>obedecer. Jorg. No arremeta</p>\n<p>&nbsp;</p>\n<p>a los muchachos, que .aquesto</p>\n<p>no es cortar brazo ni) pierna:</p>\n<p>cuatro azotes solo son. dal&eacute;.</p>\n<p>Vee. Justicia del cielo venga.</p>\n<p>Jorg. Aunque venga la justicia;</p>\n<p>| tome, tome. dale. Vee. Tente , bestia,</p>\n<p>mira que yo soy tu amigo.</p>\n<p>Jorg. Pardiez si mi padre fuera, wases</p>\n<p>tos habia de llevar.</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:47:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747936038999",
+    "dcterms:modified" : "2025-05-22T17:47:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=550,329,2017,3276"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M549.95817,329.24701h1008.31673v0h1008.31673v1638.22908v1638.22908h-1008.31673h-1008.31673v-1638.22908z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_22b46dcc-27dc-47bc-a29c-236901ce5690\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://74d99c54-19a2-479d-8749-0b49c26aa8d0"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/6c125818d2861d2f38431c4a278940a9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
