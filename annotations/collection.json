@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/a4d3ebd2570f9ba0bc0840318b8524ae.json", "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/5ccc3387988f2389285664947b86d04e.json", "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/4d0df9c79de7e58fcaa224c628e342f7.json" ],
+  "otherContent" : [ "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/a4d3ebd2570f9ba0bc0840318b8524ae.json", "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/5ccc3387988f2389285664947b86d04e.json", "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/4d0df9c79de7e58fcaa224c628e342f7.json", "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/c0783d8469952a824a248bdaf8a5870a.json" ],
   "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/collection.json",
   "label" : "All annotations loaded in mirandaizguerra24/IIIF_Workshop_Project2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
