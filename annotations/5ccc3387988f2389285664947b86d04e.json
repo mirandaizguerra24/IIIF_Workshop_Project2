@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "2\nJorg. Y qu&eacute; tengo de hacer&rdquo; mientras 2\nMaest. Todo lo que yo digere ,\n&nbsp;\nque es, cuando juntos los tengas,\n&nbsp;\nenseflarles 4 rezar ,\n&nbsp;\npues sabes; hacer que lean ,\n&nbsp;\ny corregir lo que escriben,\nJorg. Corregirles sera fuerza\n&nbsp;\nlo que escriben; mas leer, |\n&nbsp;\nen cargo de mi conciencia,\n&nbsp;\naunque he leido muchas veces,\n&nbsp;\naun no conozco las letras:\n&nbsp;\nno s&eacute; c&eacute;mo lo he de hacer.\nMaest.. Dici&eacute;ndoles: lean, lean,\n&nbsp;\nY mira no te-.se olvide,\n&nbsp;\nque has de tener mucha cuenta\n&nbsp;\nen que el sabado una rosca\n&nbsp;\nte han de traer, Jorg. Esa es buena,\nMaest. Sino la traen, cuidado,\n&nbsp;\nque nadie que entre esa puerta\n&nbsp;\nsin la rosca, que se escape\n&nbsp;\nde cascarles_azotea ;\n&nbsp;\ny advi&eacute;rteles que la traigan,\n&nbsp;\n&copy; no vengan 4a la escuela,\nJorg. Cuando es sabado? = Maest. Mafiana.\n-A Dios pues, porque me esperan\n&nbsp;\n&lsquo;los amigos; podra ser\n&nbsp;\nque mas presto sea mi vuelta\n&nbsp;\nde lo que juzgo, vase, Jorg. Usted vaya,\nque vera mi negrigencia.\n&nbsp;\nPues ya se ha-ido, sepamos\n&nbsp;\nlos encargos. La primera,\n&nbsp;\nensefiarles 4 rezar ;\n&nbsp;\nJa segunda, hacer que lean:\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>2</p>\n<p>Jorg. Y qu&eacute; tengo de hacer&rdquo; mientras 2</p>\n<p>Maest. Todo lo que yo digere ,</p>\n<p>&nbsp;</p>\n<p>que es, cuando juntos los tengas,</p>\n<p>&nbsp;</p>\n<p>enseflarles 4 rezar ,</p>\n<p>&nbsp;</p>\n<p>pues sabes; hacer que lean ,</p>\n<p>&nbsp;</p>\n<p>y corregir lo que escriben,</p>\n<p>Jorg. Corregirles sera fuerza</p>\n<p>&nbsp;</p>\n<p>lo que escriben; mas leer, |</p>\n<p>&nbsp;</p>\n<p>en cargo de mi conciencia,</p>\n<p>&nbsp;</p>\n<p>aunque he leido muchas veces,</p>\n<p>&nbsp;</p>\n<p>aun no conozco las letras:</p>\n<p>&nbsp;</p>\n<p>no s&eacute; c&eacute;mo lo he de hacer.</p>\n<p>Maest.. Dici&eacute;ndoles: lean, lean,</p>\n<p>&nbsp;</p>\n<p>Y mira no te-.se olvide,</p>\n<p>&nbsp;</p>\n<p>que has de tener mucha cuenta</p>\n<p>&nbsp;</p>\n<p>en que el sabado una rosca</p>\n<p>&nbsp;</p>\n<p>te han de traer, Jorg. Esa es buena,</p>\n<p>Maest. Sino la traen, cuidado,</p>\n<p>&nbsp;</p>\n<p>que nadie que entre esa puerta</p>\n<p>&nbsp;</p>\n<p>sin la rosca, que se escape</p>\n<p>&nbsp;</p>\n<p>de cascarles_azotea ;</p>\n<p>&nbsp;</p>\n<p>y advi&eacute;rteles que la traigan,</p>\n<p>&nbsp;</p>\n<p>&copy; no vengan 4a la escuela,</p>\n<p>Jorg. Cuando es sabado? = Maest. Mafiana.</p>\n<p>-A Dios pues, porque me esperan</p>\n<p>&nbsp;</p>\n<p>&lsquo;los amigos; podra ser</p>\n<p>&nbsp;</p>\n<p>que mas presto sea mi vuelta</p>\n<p>&nbsp;</p>\n<p>de lo que juzgo, vase, Jorg. Usted vaya,</p>\n<p>que vera mi negrigencia.</p>\n<p>&nbsp;</p>\n<p>Pues ya se ha-ido, sepamos</p>\n<p>&nbsp;</p>\n<p>los encargos. La primera,</p>\n<p>&nbsp;</p>\n<p>ensefiarles 4 rezar ;</p>\n<p>&nbsp;</p>\n<p>Ja segunda, hacer que lean:</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:45:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747935943371",
+    "dcterms:modified" : "2025-05-22T17:45:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=605,287,2123,3390"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M605.34942,286.55762h1061.3807v0h1061.3807v1695.17146v1695.17146h-1061.3807h-1061.3807v-1695.17146z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_da7a68af-9d4e-474a-8674-2509b2f20d8e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f3df2cf7-257c-4f5f-8e2f-24a2feca61ae"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/5ccc3387988f2389285664947b86d04e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
