@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/a4d3ebd2570f9ba0bc0840318b8524ae.json" ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/collection.json",
+  "label" : "All annotations loaded in mirandaizguerra24/IIIF_Workshop_Project2 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
