@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "of\n&nbsp;\n8\nJorg. No able, si no &lsquo;trae rosea\nque &lsquo;probara fa azoteas |\n&nbsp;\nGrac. No traigo rosea&raquo;: &copy;.&raquo; i Jorg. Qu&eacute;, no &sect;\n&nbsp;\nmachachos , a1omadia acuestas,\n&nbsp;\nGrac. Ami acuestas ? Jorg&raquo; Mas dvjadle ,\n&nbsp;\nsiquiera&rsquo; por &lsquo;da: indecencia.\nsiziv Salen los Vecinos.:\n&nbsp;\nVee. Qu&eacute; es esto, diga Maestro #\nJorg. Sefiores ,&raquo; porque: lo eres\n&nbsp;\n&eacute;l me Uijo se que uimgunoo: | is\n&nbsp;\nsae entrara , si vini&eacute;ra &gt; i\n&nbsp;\nin rosea&rdquo;, &ldquo;que no flevase.\n&nbsp;\nYo lo hice astigny c&eacute;l de fuera\n&nbsp;\nviene&lsquo; ahora , y no trae rosca y\n&nbsp;\ny ha lIlevado, porque sepa,\n&nbsp;\nque s&eacute; cumplir fo -que: &laquo;manda,\n&nbsp;\ny tenga ide! ello esperiencia,\nMaest. Pero*no &deg;ha venido-nadie\nya hombre 6:muchacho s&eacute;a, .\n&nbsp;\n&raquo; quien la rosca, no jpida.\nGrac. Cierto&rsquo; que es la burla buena.\n-Y td no-traes rosca,. Jorge?\n&nbsp;\nJorg. Yono.: 8&deg;: Grac. Pues tomadle acuestas,\n&nbsp;\n_ Jorg. No puede, ser, porque tengo\nen mis matios&rsquo; la azotea.\nFec. Cel&eacute;brese .con\\un baile,\naye de 40 y de fiesta.\nCanta Jorge.\nMuy Byer chasco han Hevado,\ntengan paciencia ,\npues que para sofrille\nles di cerrea,\n&nbsp;\nv8\n&nbsp;\n2\n&nbsp;\n&lsquo;Varrapolip, IMPRENTA DE SANTAREN.\n&nbsp;\nFIN.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>of</p>\n<p>&nbsp;</p>\n<p>8</p>\n<p>Jorg. No able, si no &lsquo;trae rosea</p>\n<p>que &lsquo;probara fa azoteas |</p>\n<p>&nbsp;</p>\n<p>Grac. No traigo rosea&raquo;: &copy;.&raquo; i Jorg. Qu&eacute;, no &sect;</p>\n<p>&nbsp;</p>\n<p>machachos , a1omadia acuestas,</p>\n<p>&nbsp;</p>\n<p>Grac. Ami acuestas ? Jorg&raquo; Mas dvjadle ,</p>\n<p>&nbsp;</p>\n<p>siquiera&rsquo; por &lsquo;da: indecencia.</p>\n<p>siziv Salen los Vecinos.:</p>\n<p>&nbsp;</p>\n<p>Vee. Qu&eacute; es esto, diga Maestro #</p>\n<p>Jorg. Sefiores ,&raquo; porque: lo eres</p>\n<p>&nbsp;</p>\n<p>&eacute;l me Uijo se que uimgunoo: | is</p>\n<p>&nbsp;</p>\n<p>sae entrara , si vini&eacute;ra &gt; i</p>\n<p>&nbsp;</p>\n<p>in rosea&rdquo;, &ldquo;que no flevase.</p>\n<p>&nbsp;</p>\n<p>Yo lo hice astigny c&eacute;l de fuera</p>\n<p>&nbsp;</p>\n<p>viene&lsquo; ahora , y no trae rosca y</p>\n<p>&nbsp;</p>\n<p>y ha lIlevado, porque sepa,</p>\n<p>&nbsp;</p>\n<p>que s&eacute; cumplir fo -que: &laquo;manda,</p>\n<p>&nbsp;</p>\n<p>y tenga ide! ello esperiencia,</p>\n<p>Maest. Pero*no &deg;ha venido-nadie</p>\n<p>ya hombre 6:muchacho s&eacute;a, .</p>\n<p>&nbsp;</p>\n<p>&raquo; quien la rosca, no jpida.</p>\n<p>Grac. Cierto&rsquo; que es la burla buena.</p>\n<p>-Y td no-traes rosca,. Jorge?</p>\n<p>&nbsp;</p>\n<p>Jorg. Yono.: 8&deg;: Grac. Pues tomadle acuestas,</p>\n<p>&nbsp;</p>\n<p>_ Jorg. No puede, ser, porque tengo</p>\n<p>en mis matios&rsquo; la azotea.</p>\n<p>Fec. Cel&eacute;brese .con\\un baile,</p>\n<p>aye de 40 y de fiesta.</p>\n<p>Canta Jorge.</p>\n<p>Muy Byer chasco han Hevado,</p>\n<p>tengan paciencia ,</p>\n<p>pues que para sofrille</p>\n<p>les di cerrea,</p>\n<p>&nbsp;</p>\n<p>v8</p>\n<p>&nbsp;</p>\n<p>2</p>\n<p>&nbsp;</p>\n<p>&lsquo;Varrapolip, IMPRENTA DE SANTAREN.</p>\n<p>&nbsp;</p>\n<p>FIN.</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:48:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747936083038",
+    "dcterms:modified" : "2025-05-22T17:48:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=545,275,2014,3379"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M544.58632,274.87649h1007.20153v0h1007.20153v1689.40372v1689.40372h-1007.20153h-1007.20153v-1689.40372z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b31a0314-d9f9-415f-be1d-70d36657a26d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a98cbd9f-5cfe-4e1d-a423-9e3f57f19164"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/ec61af622aa1635c92d9d770a890a063.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
