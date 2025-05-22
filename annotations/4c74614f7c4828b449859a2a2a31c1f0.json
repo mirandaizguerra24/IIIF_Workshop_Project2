@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sacodille el&rsquo; valandran,&nbsp;\nporque sin rosca&rsquo;no vuelva, .!)\n&yen;e}. Aqueso ha sido mal hechos - 1:\ny vive brios, que&rsquo; pudiera i\nhacerle unavcausa, si\nque es tonto no conociera :\nel azotar 4 mi. hijo! i\nJorg. Pardios , si mi padre: fueray:\ncuanto y mas 4 vuestro hijo. A\nVej. Esto es bien&rsquo; que:se consientay\nque deje el Maestro. 4 un tonto&rdquo;\na gue gobierne la escuela!\nJorg. No trae rosca,&raquo;seor Vejete ?\nVej.. Yo os juro por: vida de estas,\nque me lo, habeis de pagar.\nJorg. Diga, traesrosca? Vey. &ldquo;Ay quimera:\nmayor que:lade* este tonto! . ,\nJorg. No la. trae&rsquo;? tomenle acuestas,\nVej.. A mi acuestas! vive brios:+- agdrranle.\nJorg. Vuesast&eacute; tenga: paciencia, &copy;'*\nque ahora solo Jlevara re\nla mitad de dos docenas, .&deg;0 ++)\nVej. Qu&eacute; es azotes! 4 estas canas:\nes bien que el respeto: pierda &cent;\nJorg. Yo 4 las canas no Je ego iy.\nmas abajo &lsquo;es la azotea.\nTome, tome, y otro dia\na la escuela no se venga\nsin la rosca. Vej. Desde aqui\n&lsquo;voy. 4 dar una querellas :\njusticia de Dios , -justicia. Vase.\nJorge Sefor Vejete , y pacieneia: &ldquo;ol\nSale Vee. Jorge amigo, qu&eacute; es. aquesto?.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>sacodille el&rsquo; valandran,&nbsp;</p>\n<p>porque sin rosca&rsquo;no vuelva, .!)</p>\n<p>&yen;e}. Aqueso ha sido mal hechos - 1:</p>\n<p>y vive brios, que&rsquo; pudiera i</p>\n<p>hacerle unavcausa, si</p>\n<p>que es tonto no conociera :</p>\n<p>el azotar 4 mi. hijo! i</p>\n<p>Jorg. Pardios , si mi padre: fueray:</p>\n<p>cuanto y mas 4 vuestro hijo. A</p>\n<p>Vej. Esto es bien&rsquo; que:se consientay</p>\n<p>que deje el Maestro. 4 un tonto&rdquo;</p>\n<p>a gue gobierne la escuela!</p>\n<p>Jorg. No trae rosca,&raquo;seor Vejete ?</p>\n<p>Vej.. Yo os juro por: vida de estas,</p>\n<p>que me lo, habeis de pagar.</p>\n<p>Jorg. Diga, traesrosca? Vey. &ldquo;Ay quimera:</p>\n<p>mayor que:lade* este tonto! . ,</p>\n<p>Jorg. No la. trae&rsquo;? tomenle acuestas,</p>\n<p>Vej.. A mi acuestas! vive brios:+- agdrranle.</p>\n<p>Jorg. Vuesast&eacute; tenga: paciencia, &copy;'*</p>\n<p>que ahora solo Jlevara re</p>\n<p>la mitad de dos docenas, .&deg;0 ++)</p>\n<p>Vej. Qu&eacute; es azotes! 4 estas canas:</p>\n<p>es bien que el respeto: pierda &cent;</p>\n<p>Jorg. Yo 4 las canas no Je ego iy.</p>\n<p>mas abajo &lsquo;es la azotea.</p>\n<p>Tome, tome, y otro dia</p>\n<p>a la escuela no se venga</p>\n<p>sin la rosca. Vej. Desde aqui</p>\n<p>&lsquo;voy. 4 dar una querellas :</p>\n<p>justicia de Dios , -justicia. Vase.</p>\n<p>Jorge Sefor Vejete , y pacieneia: &ldquo;ol</p>\n<p>Sale Vee. Jorge amigo, qu&eacute; es. aquesto?.</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/212602772",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T17:46:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747936019239",
+    "dcterms:modified" : "2025-05-22T17:46:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=172,262,2319,3393"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M171.70916,262.37295h1159.72805v0h1159.72805v1696.4021v1696.4021h-1159.72805h-1159.72805v-1696.4021z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2e750b20-1054-41f6-86f0-881ef8323d83\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://755ee19a-6bbd-402e-b2a0-cbdc3b159c46"
+    } ]
+  } ],
+  "@id" : "https://mirandaizguerra24.github.io/IIIF_Workshop_Project2/annotations/4c74614f7c4828b449859a2a2a31c1f0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
